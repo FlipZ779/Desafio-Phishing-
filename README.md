@@ -15,3 +15,6 @@ Método: Credential Harvester Attack Method
 Método: Site Cloner
 
 Enfim o o toolkit nos pede uma url para que possamos clonar determinado site, optei pela url da própria dio para o Desafio.
+
+
+![unknown_2025 01 22-17 58](https://github.com/user-attachments/assets/aa9983a1-d334-454b-8ec3-8245c5384b44)
